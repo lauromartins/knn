@@ -1,2 +1,2 @@
 # knn
-My knn implementation for classifying a dataset
+My knn implementation (in python) for classifying a dataset
